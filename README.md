@@ -55,21 +55,20 @@ ChatGPT 4.1 generates multiple versions of notes for different learning needs.
 Gemini 1.5 chatbot answers user questions using only the generated notes.  
 
 **Flow Diagram:**  
-![Workflow](<img width="467" height="1149" alt="workflow" src="https://github.com/user-attachments/assets/0380f603-1a7a-4792-b13d-96722db53a32?raw=true" />)  
-*(You can design a flow diagram in draw.io, export as PNG, and save it in `docs/` folder)*  
+![Workflow](https://github.com/user-attachments/assets/0380f603-1a7a-4792-b13d-96722db53a32?raw=true)  
 
 ---
 
 ## Example of Generated Notes  
 
 **Exam-Ready Notes**  
-![Notes Example](<img width="950" height="954" alt="image" src="https://github.com/user-attachments/assets/0c0f8b12-b459-495f-8611-59ff05253d6d?raw=true" />)  
+![Notes Example](https://github.com/user-attachments/assets/0c0f8b12-b459-495f-8611-59ff05253d6d?raw=true)  
 
 **Comprehensive Notes**  
-![Study Guide](<img width="936" height="970" alt="image" src="https://github.com/user-attachments/assets/7ff5fca7-8210-4cc9-8e0f-e54b497cfbb2?raw=true" />)  
+![Study Guide](https://github.com/user-attachments/assets/7ff5fca7-8210-4cc9-8e0f-e54b497cfbb2?raw=true)  
 
 **Detailed Prep Notes**
-![Induvisual Notes](<img width="1213" height="941" alt="image" src="https://github.com/user-attachments/assets/756833b2-e378-4cdf-96fc-7a2451e8825d?raw=true" />)
+![Induvisual Notes](https://github.com/user-attachments/assets/756833b2-e378-4cdf-96fc-7a2451e8825d?raw=true)
 
 
 ---
